@@ -1,0 +1,1 @@
+megapteka/UI/ViewControllers/Classes/Authorization/RestorePswd
